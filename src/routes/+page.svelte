@@ -11,7 +11,7 @@
     'world.': "Russell Square's greenery hides, A lock that your key's use abides. From humble origins did it start, That metal prize must play its part. When boughs with purple blossoms bloom, A vivid scene for all to consume.",
     'me': "Secrets unlocked by your key's turn, Yield one more, its use you'll soon learn. To a sanctuary of love you must go, Where crimson robes await their ruby glow. A cherished place, your next warm phase, That familiar domestic base.",
     'please': "Where shooting sports and oak-aged vintages meet, Retrace your love's first tender heartbeats. A tavern feast where romance took aim, Let cherished archives reignite that flame. Relive the scene that started your trail, Over pints and plates, a timeless tale.",
-    'you': "The next phase awaits, the future to write, Let love's radiant question take flight. This foreshore bred infinite joys in its wake, Now let new vows be joyfully stake. The trail concludes where it first did start, United, you'll embark with two thunded as one heart.",
+    'you': " Put together your keywords, minus the 'start', and you will hear these words from my hearts. Our game is done, this is the final clue, this sentence reveals, my message to you. The next phase awaits, the future to write, Let love's radiant question take flight. This foreshore bred infinite joys in its wake, Now let new vows be joyfully stake. The trail concludes where it first did start, United, you'll embark with two thunded as one heart.",
     'clear': 'A fresh start',
   };
 
